@@ -1,11 +1,13 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "서시 - 윤동주"
+excerpt: "윤동주 시인의 작품 모음 - 서시"
 
 categories:
-  - Blog
+  - 윤동주
 tags:
-  - Blog
+  - 서시
+  - 윤동주
+  - 시
 last_modified_at: 2022-05-02T08:06:00-05:00
 ---
 
